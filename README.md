@@ -50,7 +50,7 @@ This Python script extracts Linktree links from Instagram bios saved in a CSV fi
 ### Usage
 
 1. **Execution**
-    - Run the script using `python script_name.py`.
+    - Run the script using `python instagram.py`.
 
 ### Notes
 - The script uses Selenium for web scraping, so ensure you have the necessary dependencies installed.
